@@ -1,0 +1,6 @@
+name, dennis muthama
+
+age, 20
+
+car, IMPREZA
+
